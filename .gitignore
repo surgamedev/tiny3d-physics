@@ -1,0 +1,4 @@
+.vscode
+*.z64
+build
+filesystem
