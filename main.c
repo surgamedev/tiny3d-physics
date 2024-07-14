@@ -7,8 +7,6 @@
 #include "control/controls.h"
 #include "time/time.h"
 
-#include "physics/physics.h"
-
 #include "camera/camera.h"
 #include "camera/camera_states.h"
 #include "camera/camera_control.h"
